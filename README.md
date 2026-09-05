@@ -1,1 +1,1 @@
-# PlantPal-Mobile-App
+# Mobile Prototype — AI-Assisted Product Development
