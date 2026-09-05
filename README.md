@@ -2,7 +2,7 @@
 
 A functional iOS prototype designed and developed using AI-assisted coding with Claude Code. I used Claude Code to accelerate implementation while directing the product architecture, UX, interaction design, visual system, and iterative refinement.
 
-**Tools:** Claude Code · Xcode · SwiftUI
+**Tools:** Claude Code · Xcode 
 
 ## Project Overview
 
