@@ -39,6 +39,6 @@ I focused on creating a visually engaging and intuitive experience, combining iO
 
 ## Video Prototype Demo
 
-https://github.com/adeyemigloria-coder/PlantPal-Mobile-App/raw/main/Video%20Prototype%20Demo/PlantPal-Prototype-Demo.mp4
+https://github.com/user-attachments/assets/9e280cd4-3a72-4d09-8008-1b1e7c247e0e
 
 > If the video above doesn't play inline, [download / watch it here](Video%20Prototype%20Demo/PlantPal-Prototype-Demo.mp4).
