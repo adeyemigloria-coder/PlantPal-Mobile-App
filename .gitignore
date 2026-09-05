@@ -1,0 +1,17 @@
+# Xcode / Swift
+DerivedData/
+build/
+*.xcuserstate
+xcuserdata/
+*.xcscmblueprint
+*.moved-aside
+.swiftpm/
+Packages/
+.build/
+
+# macOS
+.DS_Store
+
+# User settings inside the project
+*.xcodeproj/project.xcworkspace/xcuserdata/
+*.xcodeproj/xcuserdata/
