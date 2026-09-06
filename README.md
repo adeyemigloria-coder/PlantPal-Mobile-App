@@ -1,8 +1,8 @@
 # PlantPal Mobile App
 
-A functional iOS prototype designed and developed using AI-assisted coding with Claude Code. I used Claude Code to accelerate implementation while directing the product architecture, UX, interaction design, visual system, and iterative refinement.
+A functional iOS prototype designed on figma, developed and prototyped using AI-assisted coding with Claude Code. I used Claude Code to accelerate implementation while directing the product architecture, UX, interaction design, visual system, and iterative refinement.
 
-**Tools:** Claude Code · Xcode 
+**Tools:** Figma · Claude Code · Xcode 
 
 ## Project Overview
 
