@@ -12,6 +12,10 @@ PlantPal is a modern iOS plant care app designed to help users easily track thei
 
 I focused on creating a visually engaging and intuitive experience, combining iOS design patterns with a glassmorphic visual system. I mapped the core user flow, designed the four key screens, and used SwiftUI with AI-assisted development to turn the designs into a functional, clickable prototype.
 
+## Figma Link
+
+https://www.figma.com/design/aACG3O09hnKSjU0zjT9pyV/Plant-Pal?node-id=0-1&p=f&t=RCdESrsHiHNGXhPF-0
+
 ## Screens
 
 <table>
